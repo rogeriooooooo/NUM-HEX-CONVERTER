@@ -1,0 +1,89 @@
+# Ignorar arquivos de build e binários
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.nupkg
+*.pdb
+*.cache
+*.ilk
+
+# Ignorar pastas de dependências
+packages/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+.vscode/
+.idea/
+
+# Ignorar arquivos de configuração local
+*.userprefs
+*.DotSettings
+*.DotSettings.user
+
+# Ignorar arquivos de projeto específicos
+*.csproj.user
+*.vbproj.user
+*.fsproj.user
+
+# Ignorar arquivos de teste
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Ignorar arquivos do ReSharper
+_ReSharper.*
+*.ReSharper
+*.ReSharper.user
+
+# Ignorar arquivos do Rider
+.idea/
+*.idea
+*.sln.iml
+
+# Ignorar arquivos do Azure
+*.azurePubxml
+*.pubxml
+*.publishsettings
+
+# Ignorar arquivos do Node.js
+node_modules/
+npm-debug.log
+
+# Ignorar arquivos do NuGet
+.nuget/
+nuget.exe
+*.nupkg
+
+# Ignorar arquivos do Docker
+docker-compose.override.yml
+docker-compose.vs.debug.yml
+docker-compose.vs.release.yml
+
+# Ignorar arquivos do SQL Server
+*.mdf
+*.ldf
+*.sdf
+
+# Ignorar arquivos de cache do Visual Studio
+.vs/
+.vscode/
+.ionide/
+
+# Ignorar arquivos de ambiente
+.env
+.env.local
+.env.development
+.env.production
+
+# Ignorar arquivos de log
+*.log
+*.log.*
+logs/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
