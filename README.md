@@ -73,7 +73,7 @@ Clone o repositório:
 
 bash
 Copy
-git clone https://github.com/seu-usuario/hex-numeral-converter.git  
+git clone [https://github.com/seu-usuario/hex-numeral-converter.git](https://github.com/rogeriooooooo/NUM-HEX-CONVERTER.git)  
 Abra o projeto no Visual Studio ou em sua IDE preferida para C#.
 
 Compile e execute a aplicação.
@@ -154,7 +154,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/hex-numeral-converter.git  
+git clone [https://github.com/your-username/hex-numeral-converter.git ](https://github.com/rogeriooooooo/NUM-HEX-CONVERTER.git) 
 Open the project in Visual Studio or your preferred C# IDE.
 
 Build and run the application.
